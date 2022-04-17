@@ -1,0 +1,21 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "minecraft:block/button",
+	"textures": {
+		"texture": "custom/button5"
+	},
+	"elements": [
+		{
+			"from": [5, 0, 6],
+			"to": [11, 2, 10],
+			"faces": {
+				"north": {"uv": [0, 0, 6, 2], "texture": "#texture"},
+				"east": {"uv": [0, 0, 4, 2], "texture": "#texture"},
+				"south": {"uv": [0, 0, 6, 2], "texture": "#texture"},
+				"west": {"uv": [0, 0, 4, 2], "texture": "#texture"},
+				"up": {"uv": [5, 6, 11, 10], "texture": "#texture"},
+				"down": {"uv": [0, 0, 6, 4], "texture": "#texture"}
+			}
+		}
+	]
+}

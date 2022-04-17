@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "side": "minecraft:custom/lcz_bottom",
+    "end": "minecraft:block/white_concrete"
+  }
+}

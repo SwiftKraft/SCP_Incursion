@@ -1,0 +1,6 @@
+{
+	"parent": "minecraft:custom/document",
+	"textures": {
+		"texture": "minecraft:custom/doc173"
+	}
+}

@@ -1,0 +1,23 @@
+{ 
+ "incursion.nuke.1": { "category": "music", "sounds": [ "custom/Nuke1" ] } ,
+ "incursion.nuke.2": { "category": "music", "sounds": [ "custom/Nuke2" ] } ,
+ "incursion.nuke.3": { "category": "music", "sounds": [ "custom/Nuke3" ] } ,
+ "incursion.nuke.4": { "category": "music", "sounds": [ "custom/Nuke4" ] } ,
+
+ "incursion.nuke.omega": { "category": "music", "sounds": [ "custom/OmegaNuke" ] } ,
+
+ "incursion.cb.106": { "category": "music", "sounds": [ "custom/106" ] } ,
+ "incursion.cb.intro": { "category": "music", "sounds": [ "custom/Intro" ] } ,
+ "incursion.cb.lcz": { "category": "music", "sounds": [ "custom/LightContainment" ] } ,
+ "incursion.cb.hcz": { "category": "music", "sounds": [ "custom/HeavyContainment" ] } ,
+ "incursion.cb.ez": { "category": "music", "sounds": [ "custom/EntranceZone" ] } ,
+
+ "incursion.cb.bigdoor.open": { "category": "block", "sounds": [ "custom/BigDoorOpen", "custom/BigDoorOpen1", "custom/BigDoorOpen2" ] } ,
+ "incursion.cb.bigdoor.close": { "category": "block", "sounds": [ "custom/BigDoorClose", "custom/BigDoorClose1", "custom/BigDoorClose2" ] } ,
+ "incursion.cb.door2.open": { "category": "block", "sounds": [ "custom/Door2Open1", "custom/Door2Open2", "custom/Door2Open3" ] } ,
+ "incursion.cb.door2.close": { "category": "block", "sounds": [ "custom/Door2Close1", "custom/Door2Close2", "custom/Door2Close3" ] } ,
+ "incursion.cb.door.open": { "category": "block", "sounds": [ "custom/DoorOpen1", "custom/DoorOpen2", "custom/DoorOpen3" ] } ,
+ "incursion.cb.door.close": { "category": "block", "sounds": [ "custom/DoorClose1", "custom/DoorClose2", "custom/DoorClose3" ] } ,
+
+ "incursion.cb.pd": { "category": "music", "sounds": [ "custom/PD" ] } 
+}
