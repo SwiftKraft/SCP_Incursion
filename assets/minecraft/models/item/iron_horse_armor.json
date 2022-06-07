@@ -1,6 +1,15 @@
 {
     "parent": "item/generated",
-    "textures": {
+    "textures": 
+    {
         "layer0": "item/iron_horse_armor"
-    }
+    },
+
+    "overrides": 
+    [
+        {
+            "predicate": { "custom_model_data": 10000 },
+            "model": "custom/guns/ak47"
+        }
+    ]
 }
